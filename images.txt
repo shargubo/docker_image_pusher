@@ -1,3 +1,4 @@
 nginx
 #支持私库
 chenhw2/aliyun-ddns-cli
+sonatype/nexus3
